@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+.env
+build/
+dist/
+*.log
+.vs/
+*.user
+*.suo
+bin/
+obj/
